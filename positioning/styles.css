@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+div {
+    background-color: #c7c7c7;
+    padding: 20px;
+    text-align: center;
+    /* position: relative; */
+  }
+  
+  p {
+    color: black;
+    padding: 50px;
+    margin: 0;
+  }
+  
+  #container {
+    background-color: #521751;
+  }
+  
+  #container p {
+    color: white;
+  }
+  
+  #one {
+    background-color: #943092;
+    /* position: absolute; */
+  }
+  
+  #two {
+    background-color: #c95bc7;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    /* left: 20px; */
+  }
+  
+  #three {
+    background-color: #dd61db;
+    /* position: absolute; */
+  }
